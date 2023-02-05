@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycycse)
+<div align="center">
+<img height="230" src="https://rishavanand.github.io/static/images/greetings.gif" align="left"/>
+<img height="230" src="https://github-readme-stats.vercel.app/api?username=ycycse" align="right"/>
+</div>  
+
+                                                                       
