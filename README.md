@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img height="165" src="https://rishavanand.github.io/static/images/greetings.gif" align="left"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ycycse" align="right"/>
+<div nowrap>
+<img height="200" src="https://rishavanand.github.io/static/images/greetings.gif" align="left"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=ycycse" align="right"/>
 </div>  
 
                                                                        
