@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div nowrap>
-<img height="165" src="https://rishavanand.github.io/static/images/greetings.gif" align="left"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ycycse" align="right"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"/>
 </div>  
 
                                                                        
