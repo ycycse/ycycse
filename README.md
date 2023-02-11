@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div nowrap>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"/>
-</div>  
+![yangCaiyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycycse)
 
                                                                        
