@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![yangCaiyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycycse)
 -->
-
-![yangCaiyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycycse)
 
                                                                        
