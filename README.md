@@ -1,3 +1,8 @@
+### Hi there 👋
+I am a first-year master's student at Tsinghua University.
+- 🔭 I’m currently contributing to Apache IoTDB
+- 🌱 I’m interested distributed database system and DB4AI
+- ⚡  I want to do something interesting and meaningful.
 <!--
 **ycycse/ycycse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![yangCaiyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycycse)
 -->
 
                                                                        
