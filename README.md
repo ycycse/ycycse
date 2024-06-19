@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a first-year master's student at Tsinghua University.
-- 🔭 I’m currently contributing to Apache IoTDB
+- 🔭 Committer of Apache IoTDB. I’m currently contributing to it.
 - 🌱 I’m interested in distributed database system and DB4AI
 - ⚡  I want to do something interesting and meaningful.
 <!--
