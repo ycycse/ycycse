@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a master's student at Tsinghua University.
 - 🔭 Committer of Apache IoTDB. I’m currently contributing to the coummunity.
-- 🌱 I’m interested in distributed system and DB4AI
+- 🌱 I’m interested in database, distributed system and ml system.
 - ⚡ I want to do something interesting and meaningful.
 <!--
 **ycycse/ycycse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
