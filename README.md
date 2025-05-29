@@ -1,9 +1,11 @@
 ### Hi there 👋
 I am a master's student at Tsinghua University.
+
 🌱 I’m interested in distributed system and ai system.
+
 ⚡ I want to do something interesting and meaningful.
 
-#### 🌐 Check out what I'm currently working on
+#### 🤖 Check out what I'm currently working on
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (2 weeks ago)
