@@ -15,7 +15,7 @@ I am a master's student at Tsinghua University.
 
 #### 🔨 My recent Pull Requests
 
-- [[AINode] Fix model training interface for table model](https://github.com/apache/iotdb/pull/15708) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[AINode] Fix model training interface for table model](https://github.com/apache/iotdb/pull/15708) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Support dataset module for iotdb in ainode](https://github.com/apache/iotdb/pull/15686) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Support built-in forecast function through UDTF for tree model](https://github.com/apache/iotdb/pull/15682) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.3][AINode] Return ainodeClient in clientPool](https://github.com/apache/iotdb/pull/15585) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
