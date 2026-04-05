@@ -11,7 +11,6 @@ I am a master's student at Tsinghua University.
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 months ago)
 - [THSS-DB/TDB](https://github.com/THSS-DB/TDB) - Educational Database Management System for Software School of Tsinghua University (9 months ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (11 months ago)
-- [ycycse/TsConvert](https://github.com/ycycse/TsConvert) - A tool library to convert different format into general TsFile format. (1 year ago)
 
 #### 🔨 My recent Pull Requests
 
