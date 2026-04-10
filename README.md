@@ -14,10 +14,10 @@ I am a master's student at Tsinghua University.
 
 #### 🔨 My recent Pull Requests
 
+- [Optimize and Fix some bugs in TsFileDataFrame](https://github.com/apache/tsfile/pull/773) on [apache/tsfile](https://github.com/apache/tsfile) (today)
 - [Remove timestamps cache to optmize init phase](https://github.com/apache/tsfile/pull/769) on [apache/tsfile](https://github.com/apache/tsfile) (2 days ago)
 - [Support TsfileDataFrame](https://github.com/apache/tsfile/pull/765) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
 - [introduce tsFileDataFrame features](https://github.com/ycycse/IoTDB-AI/pull/1) on [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) (3 weeks ago)
 - [[AINode] Modify dataset module for table-model training](https://github.com/apache/iotdb/pull/15816) on [apache/iotdb](https://github.com/apache/iotdb) (9 months ago)
-- [[AINode] Fix model training interface for table model](https://github.com/apache/iotdb/pull/15708) on [apache/iotdb](https://github.com/apache/iotdb) (10 months ago)
 
 
