@@ -14,10 +14,10 @@ I am a master's student at Tsinghua University.
 
 #### 🔨 My recent Pull Requests
 
+- [Disable query when tag is  None in TsFileDataFrame](https://github.com/apache/tsfile/pull/779) on [apache/tsfile](https://github.com/apache/tsfile) (today)
 - [Optimize and Fix some bugs in TsFileDataFrame](https://github.com/apache/tsfile/pull/773) on [apache/tsfile](https://github.com/apache/tsfile) (2 days ago)
 - [Remove timestamps cache to optmize init phase](https://github.com/apache/tsfile/pull/769) on [apache/tsfile](https://github.com/apache/tsfile) (4 days ago)
 - [Support TsfileDataFrame](https://github.com/apache/tsfile/pull/765) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
 - [introduce tsFileDataFrame features](https://github.com/ycycse/IoTDB-AI/pull/1) on [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) (3 weeks ago)
-- [[AINode] Modify dataset module for table-model training](https://github.com/apache/iotdb/pull/15816) on [apache/iotdb](https://github.com/apache/iotdb) (9 months ago)
 
 
