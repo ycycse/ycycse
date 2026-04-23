@@ -7,7 +7,7 @@ I am a master's student at Tsinghua University.
 
 #### 🤖 Check out what I'm currently working on
 
-- [Wizard-Intelligence-Learning-Lab/SimpleTES](https://github.com/Wizard-Intelligence-Learning-Lab/SimpleTES) -  (today)
+- [Wizard-Intelligence-Learning-Lab/SimpleTES](https://github.com/Wizard-Intelligence-Learning-Lab/SimpleTES) -  (1 day ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 week ago)
 - [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) - AI toolkits for IoTDB/AINode (3 months ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 months ago)
@@ -18,7 +18,7 @@ I am a master's student at Tsinghua University.
 - [Disable query when tag is  None in TsFileDataFrame](https://github.com/apache/tsfile/pull/779) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
 - [Optimize and Fix some bugs in TsFileDataFrame](https://github.com/apache/tsfile/pull/773) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
 - [Remove timestamps cache to optmize init phase](https://github.com/apache/tsfile/pull/769) on [apache/tsfile](https://github.com/apache/tsfile) (2 weeks ago)
-- [Support TsfileDataFrame](https://github.com/apache/tsfile/pull/765) on [apache/tsfile](https://github.com/apache/tsfile) (2 weeks ago)
+- [Support TsfileDataFrame](https://github.com/apache/tsfile/pull/765) on [apache/tsfile](https://github.com/apache/tsfile) (3 weeks ago)
 - [introduce tsFileDataFrame features](https://github.com/ycycse/IoTDB-AI/pull/1) on [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) (1 month ago)
 
 
