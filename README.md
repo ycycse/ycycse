@@ -7,7 +7,7 @@ I am a master's student at Tsinghua University.
 
 #### 🤖 Check out what I'm currently working on
 
-- [Wizard-Intelligence-Learning-Lab/SimpleTES](https://github.com/Wizard-Intelligence-Learning-Lab/SimpleTES) -  (1 day ago)
+- [wq-will/SimpleTES](https://github.com/wq-will/SimpleTES) -  (1 day ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 week ago)
 - [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) - AI toolkits for IoTDB/AINode (3 months ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 months ago)
