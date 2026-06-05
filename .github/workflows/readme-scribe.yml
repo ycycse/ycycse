@@ -18,8 +18,8 @@ jobs:
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTOR: ycycse
         with:
+          username: ycycse
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
