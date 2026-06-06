@@ -11,7 +11,7 @@ I am a master's student at Tsinghua University.
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
 - [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) - AI toolkits for IoTDB/AINode (5 months ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (7 months ago)
-- [THSS-DB/TDB](https://github.com/THSS-DB/TDB) - Educational Database Management System for Software School of Tsinghua University (11 months ago)
+- [THSS-DB/TDB](https://github.com/THSS-DB/TDB) - Educational Database Management System for Software School of Tsinghua University (1 year ago)
 
 #### 🔨 My recent Pull Requests
 
