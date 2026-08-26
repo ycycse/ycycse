@@ -8,9 +8,9 @@ I am a master's student at Tsinghua University.
 #### 🤖 Check out what I'm currently working on
 
 - [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (2 weeks ago)
-- [wq-will/SimpleTES](https://github.com/wq-will/SimpleTES) - A general framework for strategically scaling evaluation-driven discovery loops, discovering state-of-the-art solutions on 21 open-ended problems. (3 weeks ago)
+- [wq-will/SimpleTES](https://github.com/wq-will/SimpleTES) - A general framework for strategically scaling evaluation-driven discovery loops, discovering state-of-the-art solutions on 21 open-ended problems. (4 weeks ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (4 months ago)
-- [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) - AI toolkits for IoTDB/AINode (7 months ago)
+- [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) - AI toolkits for IoTDB/AINode (8 months ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (10 months ago)
 
 #### 🔨 My recent Pull Requests
@@ -18,6 +18,6 @@ I am a master's student at Tsinghua University.
 - [Unify Codex Bridge runtime profiles](https://github.com/ycycse/lumen-paper/pull/3) on [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) (3 weeks ago)
 - [Use stable Bridge install links](https://github.com/ycycse/lumen-paper/pull/2) on [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) (3 weeks ago)
 - [Improve project documentation and simplify Codex Bridge setup](https://github.com/ycycse/lumen-paper/pull/1) on [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) (3 weeks ago)
-- [Align task coverage](https://github.com/wq-will/SimpleTES/pull/9) on [wq-will/SimpleTES](https://github.com/wq-will/SimpleTES) (4 weeks ago)
+- [Align task coverage](https://github.com/wq-will/SimpleTES/pull/9) on [wq-will/SimpleTES](https://github.com/wq-will/SimpleTES) (1 month ago)
 
 
