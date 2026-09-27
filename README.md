@@ -8,7 +8,7 @@ I am a master's student at Tsinghua University.
 #### 🤖 Check out what I'm currently working on
 
 - [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (1 month ago)
-- [wq-will/SimpleTES](https://github.com/wq-will/SimpleTES) - A general framework for strategically scaling evaluation-driven discovery loops, discovering state-of-the-art solutions on 21 open-ended problems. (1 month ago)
+- [wq-will/SimpleTES](https://github.com/wq-will/SimpleTES) - A general framework for strategically scaling evaluation-driven discovery loops, discovering state-of-the-art solutions on 21 open-ended problems. (2 months ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (5 months ago)
 - [ycycse/IoTDB-AI](https://github.com/ycycse/IoTDB-AI) - AI toolkits for IoTDB/AINode (9 months ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (11 months ago)
